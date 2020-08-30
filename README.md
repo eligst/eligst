@@ -5,4 +5,4 @@
 - :computer: Primarily working with Java and Kotlin on private projects
 - :hourglass: Should be more active soon
 
-![Eli's github stats](https://github-readme-stats.vercel.app/api?username=Eli-Dev&count_private=true&show_icons=true&theme=dark)
+[![Eli's github stats](https://github-readme-stats.vercel.app/api?username=Eli-Dev&count_private=true&show_icons=true&theme=dark)](https://github.com/Eli-Dev?tab=repositories)
