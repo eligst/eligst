@@ -1,6 +1,6 @@
 ### Hi there, I'm Elias! <img height=30 src="https://github.com/Eli-Dev/Eli-Dev/raw/master/wave.gif">
 
-- :school: Student at a HTL with focus on informatics
+- :school: Student at a [HTL](https://en.wikipedia.org/wiki/H%C3%B6here_Technische_Lehranstalt) (Higher Technical Education Institute) with focus on informatics
 - :memo: Learning C# and (soon) C at school
 - :computer: Primarily working with Java and Kotlin on private projects
 - :hourglass: Should be more active soon
